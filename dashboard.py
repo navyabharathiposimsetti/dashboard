@@ -28,7 +28,7 @@ LULC_FILES = {
     '2017': os.path.join(ASSETS_DIR, 'lulc_2017.png'),
     '2021': os.path.join(ASSETS_DIR, 'lulc_2021.png'),
     '2024': os.path.join(ASSETS_DIR, 'lulc_2024.png'),
-    '2034_predicted': os.path.join(ASSETS_DIR, 'LULC_2034_predicted.png')
+    '2034_predicted': os.path.join(ASSETS_DIR, 'lulc_2034_predicted.png')
 }
 
 # Verify file existence
